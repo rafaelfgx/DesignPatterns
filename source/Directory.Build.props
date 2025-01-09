@@ -1,0 +1,8 @@
+<Project>
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <LangVersion>latest</LangVersion>
+        <NeutralLanguage>en</NeutralLanguage>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+</Project>
